@@ -1,5 +1,16 @@
 # Flower Classification APP
 An artificial intelligence application that uses a CNN to classify various types of flowers based on images provided by the user.
+<div align="center">
+  <img src="home.png" width="600">
+</div>
+
+<div align="center">
+  <img src="lilies.png" width="600">
+</div>
+
+<div align="center">
+  <img src="flowers.png" width="600">
+</div>
 
 ## Introduction
 This program provides a menu-based interface with two distinct options:
