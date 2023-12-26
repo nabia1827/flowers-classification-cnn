@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="img">
+    <file>florder.png</file>
+    <file>floriz.png</file>
+    <file>imag.png</file>
+    <file>parte2.png</file>
+    <file>parte1.png</file>
+  </qresource>
+</RCC>
